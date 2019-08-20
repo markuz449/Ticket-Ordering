@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicketGUI()
+comment1.params=
+comment1.target=void\ addTickets()
+comment2.params=
+comment2.target=void\ viewOrders()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=inputString\ minLength\ maxLength
+comment4.target=java.lang.Boolean\ checkStringLength(java.lang.String,\ java.lang.Integer,\ java.lang.Integer)
+comment5.params=
+comment5.target=void\ importOrder()
+numComments=6
